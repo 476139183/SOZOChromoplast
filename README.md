@@ -1,4 +1,4 @@
-# SOZOChromoplast
+# SOZOChromoplast 获取平均颜色
 
 ### Description
 
